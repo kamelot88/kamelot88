@@ -11,7 +11,7 @@
 I am a junior Front-End Developer from Ukraine
 
 - I have been actively studying front end for over 1 year. I try to immediately apply the acquired new information to practice, I have an analytical mindset, I am attentive to details, and if I don’t know something, I use search engines perfectly and find the necessary information.
-- I like to learn new things and get great pleasure from solving interesting and complex problems. I read technical literature and consider myself a responsible and extremely executive person. Therefore, when I write code - I imagine that it will be read by psychopaths who know where I live😆
+- I like to learn new things and get great pleasure from solving interesting and complex problems. I read technical literature and consider myself a responsible and extremely executive person. When I write code - I imagine that it will be read by psychopaths who know where I live😆
 
 🌐 Languages : Ukrainian, English, Poland, Russian
 
