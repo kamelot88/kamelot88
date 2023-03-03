@@ -12,8 +12,15 @@ I am a junior Front-End Developer from Ukraine
 
 - I have been actively studying front end for over 1 year. I try to immediately apply the acquired new information to practice, I have an analytical mindset, I am attentive to details, and if I don’t know something, I use search engines perfectly and find the necessary information.
 - I like to learn new things and get great pleasure from solving interesting and complex problems. I read technical literature and consider myself a responsible and extremely executive person. When I write code - I imagine that it will be read by psychopaths who know where I live😆
+---
+🌐 Languages :
+ * Ukrainian - *first native language*;
+ * Russian   - *second native language*;
+ * English   - *basic, entry level*;
+ * Poland    - *basic, entry level*;
+---
 
-🌐 Languages : Ukrainian, English, Poland, Russian
+[My website portfolio](https://kamelot88.github.io/portfolio/)
 
 ---
 ### My stack and tools :
@@ -23,7 +30,7 @@ I am a junior Front-End Developer from Ukraine
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="gimp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
